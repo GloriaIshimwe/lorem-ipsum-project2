@@ -1,0 +1,29 @@
+body{
+    margin: 0px; 
+}
+figure{
+    display: flex; 
+    flex-direction: row;
+    margin: 0px;         
+}
+img{    
+    height: 100px;   
+    position: sticky;  
+    top: 40%; 
+    
+}
+figcaption{
+    background-color: antiquewhite; 
+    padding: 15px 80px; 
+}
+.image-wrapper{
+    background-image: url("https://webgradients.com/public/webgradients_png/041%20Happy%20Acid.png");    
+    padding: 15px 80px; 
+}
+h4{
+    padding-top: 0px; 
+    margin-top: 0px; 
+}
+p{
+    text-align: justify;
+}
